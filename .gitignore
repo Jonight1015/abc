@@ -1,0 +1,5 @@
+#不追踪index.html
+index.html
+
+#忽略test目录下所有.txt文件
+test/*.txt
