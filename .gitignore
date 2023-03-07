@@ -1,5 +1,5 @@
-#不追踪index.html
-index.html
+*.txt
 
-#忽略test目录下所有.txt文件
-test/*.txt
+!ceshi2.txt
+
+test/**/*.html
